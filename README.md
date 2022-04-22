@@ -1,7 +1,8 @@
-# CS:GO Weapon Market
+# CS:GO Weapon Market (Silah Marketi)
 It is used to return purchased weapons and get their money.
 
-![weapon market](https://user-images.githubusercontent.com/89659705/164764767-6477ee0c-e8ff-488d-b80f-00309febcfef.png)
+https://youtu.be/5tEhL11dxbo
+[![Weapon Market](https://user-images.githubusercontent.com/89659705/164764767-6477ee0c-e8ff-488d-b80f-00309febcfef.png)](https://youtu.be/5tEhL11dxbo "Weapon Market")
 
 **[EN]**
 Players can sell their weapons at a certain rate to their real price. You can set the weapon at any time indefinitely, during the purchase time (automatically), or any time you want. The price of the weapons can be adjusted as a percentage to the real price. For example, when it is set to 50%, it can sell 50% of the price of all weapons. You can limit the area they will sell to as a weapon purchase zone. Players can sell their own weapons, as well as if the settings are changed, if they have the weapon given to them by their teammates (you can find the weapon of their teammate from the place 😃 ) or if they have someone's weapon on them. Thanks to the setting to be made, you can prohibit the sale of the weapons you want. Thus, the weapons given for free when you start the game may not be sold. When the player tries to sell if the time is open and runs out after opening the sell menu, he will not be able to do so. The same is true if the region setting is turned on. In addition, I opened the menu, if he makes a mistake so that I can throw the gun and sell it later, the plugin will not allow it either. 😎
