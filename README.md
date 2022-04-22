@@ -23,4 +23,3 @@ Bölge Ayarı: Satın alma bölgesi zorunluluğu getirir.
 Tip Ayarı: Sadece kendi satın aldığı, takım arkadaşının satın aldığı veya tüm silahların satılabilmesini sağlar. (Satan oyuncunun kendi üzerinde olması gerekmektedir.)
 Oran Ayarı: Silah satış fiyatının gerçek ücretine oranını belirler.
 Yasaklı Silahlar: Eklenen silah isimlerinin satılamamasını sağlar.
-
