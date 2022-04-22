@@ -17,9 +17,9 @@ Banned Weapons: Makes that added weapon names cannot be sold.
 
 Oyuncular silahlarını gerçek fiyatlarına belirli bir oran ile satabilir. Silahı süresiz olarak istediği zaman, satın alma süresi boyunca (otomatik) veya istediğiniz bir süre belirleyebilirsiniz. Silahlarının fiyatı gerçek fiyatına yüzdesel olarak ayarlanabilmektedir. Örneğin %50 olarak belirlendiğinde tüm silahların fiyatının %50 oranında satabilir. Satacakları alanı silah satın alma bölgesi olarak sınırlayabilirsiniz. Oyuncular kendi silahlarını satabileceği gibi ayarların değiştirilmesi durumunda takım arkadaşlarının ona verdiği(yerden de bulabilir takım arkadaşının silahını  )  veya herhangi birine ait silahı üzerinde bulundurması halinde satabilir. Yapılacak ayar sayesinde istediğiniz silahların satışını yasaklayabilirsiniz. Böylece oyunda başladığında ücretsiz verdiği silahlar satılamayabilir. Oyuncu satış menüsünü açtıktan sonra süre açıksa ve biterse satmayı denediğinde bunu başaramaz. Aynı şey bölge ayarının açık olması durumunda da geçerlidir. Ayrıca menüyü açtım silahı atayım ve sonrasında satayım diye bir yanılgıya düşer ise eklenti buna da izin vermeyecektir. 
 
-🔵 AYARLAR
-Süre Ayarı: Sınırsız, belirlenen süre veya satın alma boyunca yapılabilir.
-Bölge Ayarı: Satın alma bölgesi zorunluluğu getirir.
-Tip Ayarı: Sadece kendi satın aldığı, takım arkadaşının satın aldığı veya tüm silahların satılabilmesini sağlar. (Satan oyuncunun kendi üzerinde olması gerekmektedir.)
-Oran Ayarı: Silah satış fiyatının gerçek ücretine oranını belirler.
+🔵 AYARLAR\n
+Süre Ayarı: Sınırsız, belirlenen süre veya satın alma boyunca yapılabilir.\n
+Bölge Ayarı: Satın alma bölgesi zorunluluğu getirir.\n
+Tip Ayarı: Sadece kendi satın aldığı, takım arkadaşının satın aldığı veya tüm silahların satılabilmesini sağlar. (Satan oyuncunun kendi üzerinde olması gerekmektedir.)\n
+Oran Ayarı: Silah satış fiyatının gerçek ücretine oranını belirler.\n
 Yasaklı Silahlar: Eklenen silah isimlerinin satılamamasını sağlar.
