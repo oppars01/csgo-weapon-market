@@ -1,7 +1,6 @@
 # CS:GO Weapon Market (Silah Marketi)
 It is used to return purchased weapons and get their money.
 
-https://youtu.be/5tEhL11dxbo
 [![Weapon Market](https://user-images.githubusercontent.com/89659705/164764767-6477ee0c-e8ff-488d-b80f-00309febcfef.png)](https://youtu.be/5tEhL11dxbo "Weapon Market")
 
 **[EN]**
