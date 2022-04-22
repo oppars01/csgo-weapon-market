@@ -1,0 +1,101 @@
+"Phrases"
+{
+	"Console Message"
+	{
+		"en"			"This command is not used in the console."
+		"tr"			"Bu komut konsolda kullanılmamaktadır."
+	}
+
+	"Team Message"
+	{
+		"en"			"[SM] {darkred}Players who are not on any team cannot use this action."
+		"tr"			"[SM] {darkred}Herhangi bir takımda olmayan oyuncular bu işlemi kullanamaz."
+	}
+
+	"Alive Message"
+	{
+		"en"			"[SM] {darkred}Players who are not alive cannot use this action."
+		"tr"			"[SM] {darkred}{blue}Hayatta olmayan oyuncular bu işlemi kullanamaz."
+	}
+
+	"Time Message"
+	{
+		"#format" 		"{1:d}"
+		"en"			"[SM] {darkred}You can use this action only for {blue}first {1} seconds {darkred} after the round has started."
+		"tr"			"[SM] {darkred}Bu işlemi sadece round başladıktan sonra{blue} ilk {1} saniye {darkred}kullanabilirsiniz."
+	}
+
+	"Zone Message"
+	{
+		"en"			"[SM] {darkred}You cannot use this command outside of the purchasing zone."
+		"tr"			"[SM] {darkred}Satın alma bölgesi dışında bu işlemi kullanamazsınız."
+	}
+
+	"Weapon Market Main Menu Title"
+	{
+		"en"			"[Weapon Store] Second Hand Purchase"
+		"tr"			"[Silah Marketi] İkinci El Alımı"
+	}
+
+	"Empty Weapon Market Main Menu"
+	{
+		"en"			"There are no weapons that you can sell in accordance with the conditions."
+		"tr"			"Koşullara uygun satabileceğiniz herhangi bir silah bulunmuyor."
+	}
+
+	"Weapon Market Main Menu Item"
+	{
+		"#format" 		"{1:s}{2:d}{3:d}"
+		"en"			"Weapon: {1} - Real Price: {2}$ - Offer: {3}$"
+		"tr"			"Silah: {1} - Gerçek Fiyat: {2}$ - Teklif: {3}$"
+	}
+	
+	"Slot Message"
+	{
+		"en"			"[SM] {darkred}You can only sell a weapon you own. The gun is not on you."
+		"tr"			"[SM] {darkred}Sadece sahip olduğunuz bir silahı satabilirsiniz. Silah üzerinizde değil."
+	}
+
+	"Ban Message"
+	{
+		"en"			"[SM] {darkred}The sale of this weapon is prohibited."
+		"tr"			"[SM] {darkred}Bu silahın satışı yasaktır."
+	}
+
+	"Type Message 1"
+	{
+		"en"			"[SM] {darkred}You can only sell a weapon that you or your teammate bought."
+		"tr"			"[SM] {darkred}Sadece kendinizin veya takım arkadaşınızın satın aldığı bir silahı satabilirsiniz."
+	}
+
+	"Type Message 2"
+	{
+		"en"			"[SM] {darkred}You can only sell a gun that you bought yourself."
+		"tr"			"[SM] {darkred}Sadece kendinizin satın aldığı bir silahı satabilirsiniz."
+	}
+
+	"Real Price Message"
+	{
+		"en"			"[SM] {darkred}This weapon does not have a valid price so you cannot sell it."
+		"tr"			"[SM] {darkred}Bu silahın geçerli bir fiyatı yok bu yüzden satamazsınız."
+	}
+
+	"Max Money Message"
+	{
+		"en"			"[SM] {darkred}This weapon does not have a valid price so you cannot sell it."
+		"tr"			"[SM] {darkred}Maksimum paraya sahip olduğunuz için satış işlemi gerçekleştirilemedi."
+	}
+
+	"Weapon Market Succes"
+	{
+		"#format" 		"{1:s}{2:d}{3:d}"
+		"en"			"[SM] {orchid}{1} {blue}gun with the actual price {orange}{2}$ {blue} was sold for {darkblue}{3}$ {blue}."
+		"tr"			"[SM] {orchid}{1} {blue}isimli gerçek fiyatı {orange}{2}$ {blue}olan silah {darkblue}{3}$ {blue}fiyatına satışı gerçekleşti."
+	}
+
+	"Max Money Info"
+	{
+		"en"			"[SM] {lightblue}Your wallet has been set as maximum money because the after-sale price exceeds the maximum money."
+		"tr"			"[SM] {lightblue}Satış sonrası oluşacak fiyat maksimum parayı aştığı için cüzdanınız maksimum para olarak ayarlandı."
+	}
+}
